@@ -1,2 +1,4 @@
-gitignore
-=========
+Configuration files
+===================
+
+* .gitignore (for Python projects)
